@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aborger)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aborger&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi I'm Aaron,
 I'm a Computer Engineering and Computer Science double major at NNU
