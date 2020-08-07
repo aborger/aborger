@@ -1,6 +1,14 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aborger)](https://github.com/anuraghazra/github-readme-stats)
 
-- Hi I'm Aaron
+Hi I'm Aaron,
+I'm a Computer Engineering and Computer Science double major at NNU
+
+I'm working on:
+- Kara
+   - An AI stock trader
+- Dragonfly
+   - A 3D printed quadcopter with integrated nerf dart shooting ability
+   - AI detection and autonomous flight capability
 
 
 <!--
