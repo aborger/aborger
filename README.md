@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aborger&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi I'm Aaron,
