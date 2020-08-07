@@ -11,7 +11,8 @@ Currently working on:
    - AI detection and autonomous flight capability
 - Fruit Count
    - Computer vision project involving counting blossoms to predict harvest
-
+- Rocksat
+   - An experiment testing radio frequency capabilities in space
 
 <!--
 **aborger/aborger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
