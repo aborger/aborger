@@ -4,14 +4,14 @@ Hi I'm Aaron,
 I'm a Computer Engineering and Computer Science double major at NNU
 
 Currently working on:
-- 〽️ Kara
+- Kara
   - An AI stock trader
-- 🦋 Dragonfly
+- Dragonfly
    - A 3D printed quadcopter with integrated nerf dart shooting ability
    - AI detection and autonomous flight capability
-- 🍎 Fruit Count
+- Fruit Count
    - Computer vision project involving counting blossoms to predict harvest
-- ❇ Rocksat
+- Rocksat
    - An experiment testing radio frequency capabilities in space
 
 <!--
