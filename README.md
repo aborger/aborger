@@ -14,7 +14,7 @@ DragonFly is a quadcopter capable of shooting targets with foam balls. It is con
 ### Fruit Count
 The Fruit Count program was a part of NNU's Computer Vision Research Project. I researched different techniques to count blossoms in images. Mask-CNN and FCNN algorithms were implemented and researched.
    
-### KuaIda RockSat-X 2020
+### KauIda RockSat-X 2020
 NNU's 2020 RockSat-X project's mission is to research radio frequency communication in space, disintegration of 3D printed plastics during re-entry, and virtual reality experiences in space using a 360 degree camera. My task involved designing a system using an Arduino and Raspberry Pi that can communicate via Bluetooth and send signal strength as well as sensor data from the end of a scissor boom. I also designed the master script using python's threading module that will activate and control several devices such as a GoPro, DC motor, Servo motors, 360 degree camera, and the RF experiment when signals are detected from the rocket. I also designed a system to send the signal strength and sensor data back to NASA through the rocket's telemetry lines.
 
 ---
